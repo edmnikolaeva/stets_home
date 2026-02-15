@@ -23,10 +23,9 @@
 - End-to-end requirements package prepared
 - Energy Saving Mode concept validated via prototype  
 
-
 ---
 
-## 🧩 Key Artifacts
+### 🧩 Key Artifacts
 
 <p align="left">
 
@@ -46,6 +45,10 @@
   <img src="https://img.shields.io/badge/ER%20Diagram-26A69A?style=for-the-badge">
 </a>
 
+<a href="https://github.com/edmnikolaeva/stets_home/blob/main/Словарь_данных_Stets_Home.pdf">
+  <img src="https://img.shields.io/badge/Data%20Dictionary-26A69A?style=for-the-badge">
+</a>
+
 <a href="https://github.com/edmnikolaeva/stets_home/blob/main/ISD_Stets_Home.jpg">
   <img src="https://img.shields.io/badge/ISD-AB47BC?style=for-the-badge">
 </a>
@@ -62,7 +65,7 @@
 
 ---
 
-## 🔄 Work Process
+### 🔄 Work Process
 
 1. Conducted stakeholder interviews (client, end users, marketing) and performed requirements analysis
 
