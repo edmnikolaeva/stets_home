@@ -27,60 +27,41 @@
 
 ### 🧩 Key Artifacts
 
-<table>
-<tr>
-<td align="center" class="artifact-badge">
+<p align="left">
+
 <a href="https://miro.com/app/board/uXjVJWxOVAo=/">
-<img src="https://img.shields.io/badge/User%20Story%20Map-FF8C42?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/User%20Story%20Map-FFA500?style=for-the-badge">
 </a>
-</td>
 
-<td align="center" class="artifact-badge">
 <a href="https://github.com/edmnikolaeva/stets_home/blob/main/DFD_контекстная_Stets_Home.jpg">
-<img src="https://img.shields.io/badge/DFD%20Context-4CAF50?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/DFD%20Context-7CB342?style=for-the-badge">
 </a>
-</td>
 
-<td align="center" class="artifact-badge">
 <a href="https://github.com/edmnikolaeva/stets_home/blob/main/DFD_логическая_Stets_Home.jpg">
-<img src="https://img.shields.io/badge/DFD%20Logical-388E3C?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/DFD%20Logical-7CB342?style=for-the-badge">
 </a>
-</td>
 
-<td align="center" class="artifact-badge">
 <a href="https://github.com/edmnikolaeva/stets_home/blob/main/ER_Stets_Home.jpg">
-<img src="https://img.shields.io/badge/ER%20Diagram-009688?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/ER%20Diagram-26A69A?style=for-the-badge">
 </a>
-</td>
-</tr>
 
-<tr>
-<td align="center" class="artifact-badge">
-<a href="https://github.com/edmnikolaeva/stets_home/blob/main/ISD_Stets_Home.jpg">
-<img src="https://img.shields.io/badge/ISD-9C27B0?style=for-the-badge&logoColor=white">
-</a>
-</td>
-
-<td align="center" class="artifact-badge">
-<a href="https://www.figma.com/design/qoXc85GFJbn8pPUBH3f5BV/Дизайн-система-Stets?node-id=4-581&p=f&t=8vTz1VQW3cueg6oN-0">
-<img src="https://img.shields.io/badge/Figma%20Prototype-7B1FA2?style=for-the-badge&logoColor=white">
-</a>
-</td>
-
-<td align="center" class="artifact-badge">
-<a href="https://github.com/edmnikolaeva/stets_home/blob/main/ПМИ_Stets_Home%20Николаева.pdf">
-<img src="https://img.shields.io/badge/Test%20Report-8D6E63?style=for-the-badge&logoColor=white">
-</a>
-</td>
-
-<td align="center" class="artifact-badge">
 <a href="https://github.com/edmnikolaeva/stets_home/blob/main/Словарь_данных_Stets_Home.pdf">
-<img src="https://img.shields.io/badge/Data%20Dictionary-37474F?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Data%20Dictionary-26A69A?style=for-the-badge">
 </a>
-</td>
-</tr>
-</table>
 
+<a href="https://github.com/edmnikolaeva/stets_home/blob/main/ISD_Stets_Home.jpg">
+  <img src="https://img.shields.io/badge/ISD-AB47BC?style=for-the-badge">
+</a>
+
+<a href="https://www.figma.com/design/qoXc85GFJbn8pPUBH3f5BV/Дизайн-система-Stets?node-id=4-581&p=f&t=8vTz1VQW3cueg6oN-0">
+  <img src="https://img.shields.io/badge/Figma%20Prototype-AB47BC?style=for-the-badge">
+</a>
+
+<a href="https://github.com/edmnikolaeva/stets_home/blob/main/ПМИ_Stets_Home%20Николаева.pdf">
+  <img src="https://img.shields.io/badge/Test%20Report-A1887F?style=for-the-badge">
+</a>
+
+</p>
 
 ---
 
