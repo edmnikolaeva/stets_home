@@ -66,6 +66,12 @@
   
 ---
 
+### 🔗 Requirements Traceability
+- Traceability between business goals, requirements, design artifacts, and test cases is maintained in:
+- 👉 [Requirements traceability matrix](https://github.com/edmnikolaeva/stets_home/blob/main/requirements_traceability_matrix.pdf)
+
+---
+
 ### ⚙️ Non-functional Requirements (examples)  
 1. **Security:** password policy 8–16 chars, mixed-case, unique email check  
 2. **Usability:** intuitive UI for non-technical users  
