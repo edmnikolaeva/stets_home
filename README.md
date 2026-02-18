@@ -4,8 +4,7 @@
 <tr>
 <td>
 
-- Designed and structured a smart home mobile app for a smart device manufacturer
-- Delivered a complete analytical package and interactive MVP prototype within 4 weeks, including Energy Saving Mode to help the client stand out in the smart home market
+Delivered a complete analytical package and interactive MVP prototype within 4 weeks, including Energy Saving Mode with instant control (≤2–3s) and reliable state updates ≤1 min, supporting up to 100 devices per home — helping the client gain competitive edge via energy savings appeal and seamless scalability
 
 </td>
 <td width="220">
