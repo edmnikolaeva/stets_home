@@ -31,11 +31,18 @@ Delivered a complete analytical package and interactive MVP prototype within 4 w
 
 ### 🧭 Business Context
 
-**Domain:** Smart Home / IoT / Energy Saving Devices  
+**Domain:** Smart Home / IoT / Energy Saving Devices 
 **Scope:** MVP mobile app for Stets Home — manage smart devices, enable Energy Saving Mode, add rooms and devices, run basic automation scenarios  
-**Goal:** Deliver a working prototype to validate Energy Saving Mode and core user workflows for stakeholders 
 **Stakeholders:** client, end users, development team (5 pers)
-  
+
+---
+
+**Goal:**
+- Deliver an interactive MVP prototype and complete requirements package
+- Validate Energy Saving Mode as a market differentiator and de-risk full app investment
+- Accelerate time-to-market with a structured MVP and complete requirements package
+- Support scalable growth of Stets ecosystem (up to 100 devices per home)
+
 ---
 
 **Key Pain Points**  
@@ -46,9 +53,16 @@ Delivered a complete analytical package and interactive MVP prototype within 4 w
 ---
 
 **MVP Solution**  
-- Interactive prototype with registration, device/room management, on/off control, Energy Saving Mode, and simple automatisation  
-- Structured requirements: User Story Map w/ acceptance criteria, DFDs, ER, ISD, Data Dictionary
-- Test Summary Report for validation  
+- Structured requirements and interactive prototype reduce development risk and allow faster go-to-market
+- Validated workflows minimize costly redesigns after full development
+
+---
+
+**Business Value**
+- Enabled client to stand out with Energy Saving Mode
+- Validated innovation in 4 weeks → de-risked investment in own branded app
+- Strengthened brand positioning as eco-friendly
+- Improved expected user retention through better device/room management UX
 
 ---
 
@@ -57,9 +71,10 @@ Delivered a complete analytical package and interactive MVP prototype within 4 w
 - End-to-end requirements package prepared
 - Energy Saving Mode concept validated via prototype
 
+
 ### ✅ Result / Impact (sample)
 - Validated Energy Saving Mode workflow, reducing expected energy usage per device  
-- Confirmed ease of managing multiple rooms and devices, improving potential user retention  
+- Ease of managing multiple rooms and devices, improving potential user retention  
 - Identified key UX improvements for device onboarding and automation scenarios
   
 ---
@@ -72,7 +87,7 @@ Delivered a complete analytical package and interactive MVP prototype within 4 w
 
 ### ⚙️ Non-functional Requirements (examples)  
 1. **Security:** password policy 8–16 chars, mixed-case, unique email check  
-2. **Usability:** intuitive UI for non-technical users  
+2. **Usability:** intuitive UI reduces support costs and accelerates adoption  
 3. **Performance:** device state updates reflected accurately in app within 1 minute
 4. **Scalability:** supports up to 10 homes, 10 rooms per home, 100 devices per home
 
