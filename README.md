@@ -62,7 +62,6 @@
 - Validated Energy Saving Mode workflow, reducing expected energy usage per device  
 - Confirmed ease of managing multiple rooms and devices, improving potential user retention  
 - Identified key UX improvements for device onboarding and automation scenarios
-- Feedback collected from 3 pilot users highlighted onboarding issues → informed next iteration
   
 ---
 
