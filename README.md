@@ -4,8 +4,8 @@
 <tr>
 <td>
 
-- Designed and structured a smart home mobile application for a smart device manufacturer  
-- Delivered a complete analytical package and interactive MVP prototype within 4 weeks to support stakeholder validation of the Energy Saving Mode feature
+- Designed and structured a smart home mobile app for a smart device manufacturer
+- Delivered a complete analytical package and interactive MVP prototype within 4 weeks, including Energy Saving Mode to help the client stand out in the smart home market
 
 </td>
 <td width="220">
