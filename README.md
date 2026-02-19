@@ -31,9 +31,10 @@ Delivered a complete analytical package and interactive MVP prototype within 4 w
 
 ### 🧭 Business Context
 
-**Domain:** Smart Home / IoT / Energy Saving Devices  
-**Scope:** MVP mobile app for Stets Home — manage smart devices, enable Energy Saving Mode, add rooms and devices, run basic automation scenarios  
-**Stakeholders:** client, end users, development team (5 pers)
+- **Domain:** Smart Home / IoT / Energy Saving Devices  
+- **Scope:**
+  - MVP mobile app for Stets Home — manage smart devices, enable Energy Saving Mode, add rooms and devices, run basic automation scenarios  
+- **Stakeholders:** client, end users, development team (5 pers)
 
 
 ---
